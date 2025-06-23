@@ -1,4 +1,4 @@
-# StackOverFlow-Sidebar
+# StackBar
 This Chrome extension enhances your Google search experience, especially for development-related queries, by automatically displaying relevant Stack Overflow questions directly on the search results page.
 
 When you search on Google, a sleek sidebar will appear on the right-hand side. This sidebar lists up to five of the most relevant questions from Stack Overflow that match your current search query, sorted by relevance.
