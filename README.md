@@ -6,7 +6,7 @@ When you search on Google, a sleek sidebar will appear on the right-hand side. T
 By using this extension, developers can streamline their information-gathering process, reduce the need to manually search Stack Overflow in a separate tab, and quickly access relevant programming knowledge directly alongside their Google search results
 
 # Chrome Web Store
-- Chrome Web Store:
+- Chrome Web Store: https://chromewebstore.google.com/detail/stackbar/nopejppbgfdhnkgpfflggilmgcgloidk
 
 # Support
 If you have questions about code, send email to here.
